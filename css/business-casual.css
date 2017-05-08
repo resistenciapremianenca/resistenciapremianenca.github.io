@@ -267,4 +267,7 @@ footer p {
       .thumbnail-div  {
             display:none;
    }
+    .images-div {
+            padding-bottom: 300px;
+    }
  }
